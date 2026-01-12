@@ -1,0 +1,2 @@
+This repository contains curated DevOps resources covering major tools and technologies used in modern infrastructure and software delivery. It includes learning materials, troubleshooting guides, cheat sheets, MCQs, and interview questions across Linux, Bash scripting, Docker, Kubernetes, cloud platforms, Terraform, CI/CD, and DevSecOps, intended to support learners, practitioners, and interview preparation through practical and structured content.
+
